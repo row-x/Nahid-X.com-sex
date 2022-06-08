@@ -4,4 +4,12 @@ git clone https://github.com/NAHID-AFRIDY/Nahid-X.com-sex
 
 cd Nahid-X.com-sex
 
-python xvideo.py
+bash nahidXin.sh
+
+
+
+# What's App
++8801923092304
+
+#Facebook
+www.facebook.com/mdadilahnaf143
