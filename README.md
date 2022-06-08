@@ -11,5 +11,10 @@ bash nahidXin.sh
 # What's App
 +8801923092304
 
-#Facebook
-www.facebook.com/mdadilahnaf143
+
+# Facebook
+https://www.facebook.com/mdadilahnaf147
+
+# Youtube
+https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ
+
